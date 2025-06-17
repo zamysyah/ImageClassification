@@ -1,4 +1,3 @@
-Siap! Berikut ini adalah template `README.md` lengkap dan profesional yang bisa kamu gunakan untuk dokumentasi proyek image classification dengan CNN di GitHub. Sudah saya siapkan dengan struktur rapi, dan kamu tinggal menambahkan gambar-gambar visualisasi ke folder `screenshots` lalu menautkannya di bagian yang sesuai.
 
 ---
 
@@ -60,7 +59,7 @@ model = Sequential([
 > Warna **Hijau** menunjukkan prediksi benar, **Merah** menunjukkan prediksi salah.
 
 <p align="center">
-  <img src="screenshots/sample_predictions.png" width="75%">
+  <img src="Prediksi.png" width="75%">
 </p>
 
 ---
@@ -68,7 +67,7 @@ model = Sequential([
 ### Grafik Akurasi dan Loss
 
 <p align="center">
-  <img src="screenshots/accuracy_loss.png" width="75%">
+  <img src="cross.png" width="75%">
 </p>
 
 ---
@@ -76,7 +75,7 @@ model = Sequential([
 ### Confusion Matrix
 
 <p align="center">
-  <img src="screenshots/confusion_matrix.png" width="75%">
+  <img src="CMatrix.png" width="75%">
 </p>
 
 ---
